@@ -1,0 +1,23 @@
+# 開発環境
+#development:
+#  password: ${DEV_PASS}
+#  theme_id: ${DEV_THEMEID}
+#  store: ${DEV_SHOP}
+#  ignore_files: # 管理下におきたくないファイル
+#      - settings_data.json
+
+# テスト環境 
+#staging:
+#  password: ${STG_PASS}
+#  theme_id: ${STG_THEMEID}
+#  store: ${STG_SHOP}
+#  ignore_files: # 管理下におきたくないファイル
+#      - settings_data.json
+
+# 本番環境
+#production:
+#  password: ${PRO_PASS}
+#  theme_id: ${PRO_THEMEID}
+#  store: ${PRO_SHOP}
+#  ignore_files: # 管理下におきたくないファイル
+#      - settings_data.json
