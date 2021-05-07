@@ -1,3 +1,6 @@
+# グローバルバラメータ
+# 説明 https://shopify.dev/tools/theme-kit/configuration-reference#ignore-patterns
+
 # 開発環境
 #development:
 #  password: ${DEV_PASS}
