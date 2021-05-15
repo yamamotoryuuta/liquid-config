@@ -24,3 +24,6 @@
 #  store: ${PRO_SHOP}
 #  ignore_files: # 管理下におきたくないファイル
 #      - settings_data.json
+
+# 新規テーマ作成
+# theme new -p=[your-password] --store=[your-store.myshopify.com] --name=[theme name]
